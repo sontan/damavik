@@ -1,0 +1,10 @@
+{
+%#  Homepage title
+%#  Заголовок домашней страницы
+	"title": "new damavik",
+	
+%#  Owner login and password
+%#  Логин и пароль хозяина
+	"username": "username",
+	"password": "password"
+}
