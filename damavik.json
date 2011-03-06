@@ -2,6 +2,10 @@
 %#  Homepage title
 %#  Заголовок домашней страницы
 	"title": "new damavik",
+
+%#  Secret for cookies
+%#  Слово для кодирования куков
+    "secret":   "verysecret",
 	
 %#  Owner login and password
 %#  Логин и пароль хозяина

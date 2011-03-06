@@ -1,0 +1,7 @@
+<form action="/entrance/check" method="post">
+	<input type="text" name="username"><br/>
+    <%= validator_error 'username' %><br />
+	<input type="password" name="password"><br/>
+    <%= validator_error 'password' %><br />
+	<input type="submit">
+</form>
